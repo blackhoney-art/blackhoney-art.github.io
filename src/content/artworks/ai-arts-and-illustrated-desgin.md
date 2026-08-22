@@ -16,6 +16,8 @@ images:
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-ofcpnv.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-75j2f6.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-ghks9d.jpg
+  - ../../assets/artworks/ai-arts-and-illustrated-desgin-vw1tcy.png
+  - ../../assets/artworks/ai-arts-and-illustrated-desgin-yjcjbv.png
 title: Ai Arts and Illustrated Desgin
 status: available
 alt: Virtual Artcraft
