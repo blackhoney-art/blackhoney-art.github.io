@@ -1,6 +1,6 @@
 ---
 title: Contact
-formEnabled: true
+formEnabled: false
 ---
 
 Add your contact details and a short intro from the editor at **/admin**.
