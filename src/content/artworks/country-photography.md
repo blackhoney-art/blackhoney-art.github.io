@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/country-photography-c4mpyp.jpg
+image: ../../assets/artworks/country-photography-aihmig.jpg
 images:
   - ../../assets/artworks/country-photography-r3xlfa.jpg
   - ../../assets/artworks/country-photography-attz5t.jpg
