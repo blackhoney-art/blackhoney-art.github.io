@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/blue-photography-3agkj6.jpg
+image: ../../assets/artworks/blue-photography-70frze.jpg
 images:
   - ../../assets/artworks/blue-photography-mvshvi.jpg
   - ../../assets/artworks/blue-photography-driyym.jpg
@@ -39,20 +39,20 @@ images:
   - ../../assets/artworks/blue-photography-hlb18o.jpg
   - ../../assets/artworks/blue-photography-51vr3a.jpg
   - ../../assets/artworks/blue-photography-t3f3iv.jpg
-  - ../../assets/artworks/blue-photography-12309l.jpg
   - ../../assets/artworks/blue-photography-vm7tl4.jpg
   - ../../assets/artworks/blue-photography-utgqgf.jpg
   - ../../assets/artworks/blue-photography-5iz2y5.jpg
   - ../../assets/artworks/blue-photography-v9oqzq.jpg
   - ../../assets/artworks/blue-photography-79n7zc.jpg
   - ../../assets/artworks/blue-photography-1v5ryl.jpg
-  - ../../assets/artworks/blue-photography-jw8vn4.jpg
   - ../../assets/artworks/blue-photography-iwvudy.jpg
   - ../../assets/artworks/blue-photography-imzqaj.jpg
   - ../../assets/artworks/blue-photography-gpw8jb.jpg
   - ../../assets/artworks/blue-photography-m0u6n4.jpg
   - ../../assets/artworks/blue-photography-afmrlc.jpg
   - ../../assets/artworks/blue-photography-lkx32n.jpg
+  - ../../assets/artworks/blue-photography-t6i4ee.jpg
+  - ../../assets/artworks/blue-photography-sxgpwj.jpg
 title: Blue Photography
 status: available
 alt: Blue Moody Samples
