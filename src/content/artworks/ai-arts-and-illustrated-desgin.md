@@ -2,14 +2,15 @@
 image: ../../assets/artworks/ai-arts-and-illustrated-desgin-wjv8g8.png
 images:
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-vw1tcy.png
+  - ../../assets/artworks/ai-arts-and-illustrated-desgin-lxsnq6.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-yjcjbv.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-o6umuc.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-oywshd.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-jm2934.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-731ej1.webp
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-tmv88t.webp
-  - ../../assets/artworks/ai-arts-and-illustrated-desgin-3nbzxh.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-e2ochm.jpg
+  - ../../assets/artworks/ai-arts-and-illustrated-desgin-3nbzxh.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-ra7v3t.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-imdm2k.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-uhy5av.png
