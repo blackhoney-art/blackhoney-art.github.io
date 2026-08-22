@@ -1,6 +1,8 @@
 ---
-image: ../../assets/artworks/ai-arts-and-illustrated-desgin-nov64m.jpg
+image: ../../assets/artworks/ai-arts-and-illustrated-desgin-wjv8g8.png
 images:
+  - ../../assets/artworks/ai-arts-and-illustrated-desgin-vw1tcy.png
+  - ../../assets/artworks/ai-arts-and-illustrated-desgin-yjcjbv.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-o6umuc.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-oywshd.jpg
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-jm2934.jpg
@@ -16,8 +18,6 @@ images:
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-ofcpnv.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-75j2f6.png
   - ../../assets/artworks/ai-arts-and-illustrated-desgin-ghks9d.jpg
-  - ../../assets/artworks/ai-arts-and-illustrated-desgin-vw1tcy.png
-  - ../../assets/artworks/ai-arts-and-illustrated-desgin-yjcjbv.png
 title: Ai Arts and Illustrated Desgin
 status: available
 alt: Virtual Artcraft
