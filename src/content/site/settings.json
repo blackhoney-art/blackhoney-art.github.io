@@ -107,7 +107,7 @@
     "pages": {
       "about": true,
       "contact": false,
-      "cv": true,
+      "cv": false,
       "press": false,
       "exhibitions": false,
       "news": false,
