@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/country-photography-aihmig.jpg
+image: ../../assets/artworks/country-photography-n2hnrh.jpg
 images:
   - ../../assets/artworks/country-photography-r3xlfa.jpg
   - ../../assets/artworks/country-photography-attz5t.jpg
@@ -62,7 +62,7 @@ images:
   - ../../assets/artworks/country-photography-6qm91i.jpg
 title: Country Photography
 status: available
-alt: Pictures
+alt: Warm Country Editing
 order: 0
 featured: false
 ---
