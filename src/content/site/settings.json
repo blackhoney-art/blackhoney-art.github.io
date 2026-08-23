@@ -105,7 +105,7 @@
       "mode": "initials"
     },
     "pages": {
-      "about": true,
+      "about": false,
       "contact": false,
       "cv": false,
       "press": false,
